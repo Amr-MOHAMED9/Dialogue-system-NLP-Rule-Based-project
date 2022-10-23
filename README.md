@@ -21,5 +21,5 @@ The dialogue system work-flow is the following:
  
  **Step 6**: AI gets and displays the requested information, and asks if the user has other requests.
  
- **Step 7**: If the user doesn't have other requests, the AI greets and ends the conversation, else the AI goes back to \textbf{Step 3}.
+ **Step 7**: If the user doesn't have other requests, the AI greets and ends the conversation, else the AI goes back to **Step 3**.
 
